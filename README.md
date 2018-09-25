@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+hi im qxs.
+This is my first program.
+I like node.js.
